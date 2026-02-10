@@ -1,32 +1,27 @@
-# Playwright Python Test Writing Skill
-
-## Description
-Use this skill when the user asks to write, debug, or refactor Playwright tests in Python. This includes end-to-end tests, API tests, browser automation scripts, and test infrastructure (fixtures, page objects, CI config).
-
-## Activation
-Activate when the user asks to:
-- Write Playwright tests in Python
-- Create browser automation scripts
-- Set up Playwright test infrastructure
-- Debug or fix Playwright test failures
-- Create page object models
-- Mock APIs or network requests in tests
-- Set up CI/CD for Playwright tests
+---
+name: Playwright Python Test Writing
+description: >
+  Write, debug, and refactor Playwright tests in Python with accurate, up-to-date API usage.
+  Use this skill when the user asks to: (1) Write Playwright tests in Python, (2) Create browser
+  automation scripts, (3) Set up Playwright test infrastructure, (4) Debug or fix Playwright test
+  failures, (5) Create page object models, (6) Mock APIs or network requests in tests,
+  (7) Set up CI/CD for Playwright tests, or any other Playwright Python task.
+---
 
 ## Reference Files
 Before writing tests, read the relevant reference files for accurate API usage:
-- `locators.md` - Locator strategies (get_by_role, get_by_text, get_by_label, etc.), filtering, chaining, lists
-- `actions-input.md` - Click, fill, type, select, check, upload, drag, scroll, keyboard
-- `assertions.md` - expect() assertions, locator/page/response assertions, timeouts
-- `network-mocking.md` - Network monitoring, request interception, API mocking, HAR replay, WebSocket mocking
-- `api-testing.md` - APIRequestContext, server-side testing, fixtures for API tests
-- `browser-contexts-pages.md` - Browser launch, contexts, pages, frames, dialogs, downloads, isolation
-- `auth-emulation.md` - Authentication patterns, storage state, device emulation, viewport, geolocation, locale
-- `page-object-model.md` - POM pattern with sync/async examples
-- `debugging-tooling.md` - PWDEBUG, Inspector, trace viewer, codegen, screenshots, videos, ARIA snapshots
-- `clock.md` - Clock API for time manipulation in tests
-- `ci-docker.md` - CI configs (GitHub Actions, GitLab, Jenkins, Azure), Docker setup
-- `api-classes.md` - Low-level APIs (Keyboard, Mouse, Touchscreen), Page utility methods, Locator data extraction, BrowserContext cookies/timeouts, Request/Response properties, Route details, ConsoleMessage, FileChooser, BrowserType launch options, Workers
+- `references/locators.md` - Locator strategies (get_by_role, get_by_text, get_by_label, etc.), filtering, chaining, lists
+- `references/actions-input.md` - Click, fill, type, select, check, upload, drag, scroll, keyboard
+- `references/assertions.md` - expect() assertions, locator/page/response assertions, timeouts
+- `references/network-mocking.md` - Network monitoring, request interception, API mocking, HAR replay, WebSocket mocking
+- `references/api-testing.md` - APIRequestContext, server-side testing, fixtures for API tests
+- `references/browser-contexts-pages.md` - Browser launch, contexts, pages, frames, dialogs, downloads, isolation
+- `references/auth-emulation.md` - Authentication patterns, storage state, device emulation, viewport, geolocation, locale
+- `references/page-object-model.md` - POM pattern with sync/async examples
+- `references/debugging-tooling.md` - PWDEBUG, Inspector, trace viewer, codegen, screenshots, videos, ARIA snapshots
+- `references/clock.md` - Clock API for time manipulation in tests
+- `references/ci-docker.md` - CI configs (GitHub Actions, GitLab, Jenkins, Azure), Docker setup
+- `references/api-classes.md` - Low-level APIs (Keyboard, Mouse, Touchscreen), Page utility methods, Locator data extraction, BrowserContext cookies/timeouts, Request/Response properties, Route details, ConsoleMessage, FileChooser, BrowserType launch options, Workers
 
 ## Core Principles
 

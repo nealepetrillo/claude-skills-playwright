@@ -3,6 +3,22 @@
 Supplementary reference covering low-level APIs, utility methods, and class details
 not fully covered in the topic-based reference files.
 
+## Table of Contents
+- [Keyboard](#keyboard-pagekeyboard)
+- [Mouse](#mouse-pagemouse)
+- [Touchscreen](#touchscreen-pagetouchscreen)
+- [Page Utility Methods](#page-utility-methods)
+- [Locator Data Extraction Methods](#locator-data-extraction-methods)
+- [BrowserContext Cookie & Timeout Management](#browsercontext-cookie--timeout-management)
+- [Request Object Properties](#request-object-properties)
+- [Response Object Properties](#response-object-properties)
+- [Route Methods (Complete)](#route-methods-complete)
+- [ConsoleMessage](#consolemessage)
+- [Assertion Parameters (Advanced)](#assertion-parameters-advanced)
+- [FileChooser](#filechooser)
+- [BrowserType Launch Options](#browsertype-launch-options)
+- [Workers](#workers)
+
 ## Keyboard (`page.keyboard`)
 
 ```python

@@ -1,5 +1,17 @@
 # Playwright Python Locators Reference
 
+## Table of Contents
+- [Recommended Locator Strategies (Priority Order)](#recommended-locator-strategies-priority-order)
+- [Filtering Locators](#filtering-locators)
+- [Locator Operators](#locator-operators)
+- [Working with Lists](#working-with-lists)
+- [Strictness](#strictness)
+- [Frame Locators](#frame-locators)
+- [Shadow DOM](#shadow-dom)
+- [CSS Pseudo-Classes](#css-pseudo-classes)
+- [Nth Element (0-based)](#nth-element-0-based)
+- [Parent Element](#parent-element)
+
 ## Recommended Locator Strategies (Priority Order)
 
 ### 1. get_by_role() - Best Practice

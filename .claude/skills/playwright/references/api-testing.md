@@ -1,5 +1,16 @@
 # Playwright Python API Testing Reference
 
+## Table of Contents
+- [Overview](#overview)
+- [Setup Fixture](#setup-fixture)
+- [Test API Endpoints](#test-api-endpoints)
+- [Setup and Teardown via API](#setup-and-teardown-via-api)
+- [Prepare Server State Before UI Tests](#prepare-server-state-before-ui-tests)
+- [Validate Server State After UI Actions](#validate-server-state-after-ui-actions)
+- [Reuse Authentication State Between API and Browser](#reuse-authentication-state-between-api-and-browser)
+- [Available HTTP Methods](#available-http-methods)
+- [Response Methods](#response-methods)
+
 ## Overview
 Playwright enables direct REST API testing without loading web pages via `APIRequestContext`.
 

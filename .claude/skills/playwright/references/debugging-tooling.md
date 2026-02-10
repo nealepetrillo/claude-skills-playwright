@@ -1,5 +1,15 @@
 # Playwright Python Debugging & Tooling Reference
 
+## Table of Contents
+- [Playwright Inspector (PWDEBUG)](#playwright-inspector-pwdebug)
+- [Verbose API Logs](#verbose-api-logs)
+- [Headed Mode](#headed-mode)
+- [Code Generator (codegen)](#code-generator-codegen)
+- [Trace Viewer](#trace-viewer)
+- [Screenshots](#screenshots)
+- [Video Recording](#video-recording)
+- [ARIA Snapshots](#aria-snapshots)
+
 ## Playwright Inspector (PWDEBUG)
 
 ```bash

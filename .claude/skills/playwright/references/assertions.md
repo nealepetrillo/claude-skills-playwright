@@ -1,5 +1,15 @@
 # Playwright Python Assertions Reference
 
+## Table of Contents
+- [Overview](#overview)
+- [Custom Error Messages](#custom-error-messages)
+- [Timeout Configuration](#timeout-configuration)
+- [Negation](#negation)
+- [Locator Assertions](#locator-assertions)
+- [Page Assertions](#page-assertions)
+- [API Response Assertions](#api-response-assertions)
+- [ARIA Snapshot Assertions](#aria-snapshot-assertions)
+
 ## Overview
 Playwright assertions auto-wait and retry until conditions pass. Default timeout: 5 seconds.
 

@@ -1,5 +1,16 @@
 # Playwright Python CI/CD & Docker Reference
 
+## Table of Contents
+- [CI Setup Steps](#ci-setup-steps)
+- [GitHub Actions](#github-actions)
+- [Azure Pipelines](#azure-pipelines)
+- [GitLab CI](#gitlab-ci)
+- [Jenkins](#jenkins)
+- [CircleCI](#circleci)
+- [Docker](#docker)
+- [CI Tips](#ci-tips)
+- [Available Image Tags](#available-image-tags)
+
 ## CI Setup Steps
 1. Ensure CI agent can run browsers
 2. Install Playwright

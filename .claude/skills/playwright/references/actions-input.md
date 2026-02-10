@@ -1,5 +1,18 @@
 # Playwright Python Actions & Input Reference
 
+## Table of Contents
+- [Text Input](#text-input)
+- [Checkboxes and Radio Buttons](#checkboxes-and-radio-buttons)
+- [Select Options](#select-options)
+- [Mouse Click](#mouse-click)
+- [Type Characters (Key by Key)](#type-characters-key-by-key)
+- [Keys and Shortcuts](#keys-and-shortcuts)
+- [Upload Files](#upload-files)
+- [Focus](#focus)
+- [Drag and Drop](#drag-and-drop)
+- [Scrolling](#scrolling)
+- [Actionability Checks Table](#actionability-checks-table)
+
 ## Text Input
 
 ```python

@@ -1,5 +1,18 @@
 # Playwright Python Browser, Contexts & Pages Reference
 
+## Table of Contents
+- [Installation & Browser Setup](#installation--browser-setup)
+- [Browser Contexts (Isolation)](#browser-contexts-isolation)
+- [Pages](#pages)
+- [Frames (iframes)](#frames-iframes)
+- [Dialogs](#dialogs)
+- [Downloads](#downloads)
+- [Events](#events)
+- [Chrome Extensions](#chrome-extensions)
+- [JavaScript Evaluation](#javascript-evaluation)
+- [Custom Selector Engines](#custom-selector-engines)
+- [WebView2 (Windows)](#webview2-windows)
+
 ## Installation & Browser Setup
 
 ```bash

@@ -1,5 +1,12 @@
 # Playwright Python Page Object Model Reference
 
+## Table of Contents
+- [Purpose](#purpose)
+- [Sync Page Object](#sync-page-object)
+- [Async Page Object](#async-page-object)
+- [Recommended Pattern for pytest-playwright](#recommended-pattern-for-pytest-playwright)
+- [Key Characteristics](#key-characteristics)
+
 ## Purpose
 - **Simplify authoring** with higher-level API for your app
 - **Simplify maintenance** by centralizing selectors, avoiding repetition

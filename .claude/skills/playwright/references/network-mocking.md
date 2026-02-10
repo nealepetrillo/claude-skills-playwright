@@ -1,5 +1,23 @@
 # Playwright Python Network & Mocking Reference
 
+## Table of Contents
+- [Network Event Monitoring](#network-event-monitoring)
+- [Wait for Specific Response](#wait-for-specific-response)
+- [Wait for Request](#wait-for-request)
+- [Mock API Requests](#mock-api-requests)
+- [Modify API Responses](#modify-api-responses)
+- [Modify Requests](#modify-requests)
+- [Modify Responses (Intercept and Alter)](#modify-responses-intercept-and-alter)
+- [Abort Requests](#abort-requests)
+- [Context-Level Routing](#context-level-routing-applies-to-all-pages)
+- [HAR File Mocking](#har-file-mocking)
+- [WebSocket Mocking](#websocket-mocking)
+- [WebSocket Monitoring](#websocket-monitoring)
+- [HTTP Authentication](#http-authentication)
+- [HTTP Proxy](#http-proxy)
+- [Glob URL Pattern Syntax](#glob-url-pattern-syntax)
+- [Service Workers Note](#service-workers-note)
+
 ## Network Event Monitoring
 
 ```python

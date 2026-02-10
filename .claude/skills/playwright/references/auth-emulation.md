@@ -1,5 +1,18 @@
 # Playwright Python Authentication & Emulation Reference
 
+## Table of Contents
+- [Authentication Patterns](#authentication-patterns)
+- [Device Emulation](#device-emulation)
+- [Viewport](#viewport)
+- [Locale & Timezone](#locale--timezone)
+- [Geolocation](#geolocation)
+- [Permissions](#permissions)
+- [Color Scheme](#color-scheme)
+- [User Agent](#user-agent)
+- [Offline Mode](#offline-mode)
+- [JavaScript Disabled](#javascript-disabled)
+- [Mobile Mode](#mobile-mode)
+
 ## Authentication Patterns
 
 ### Manual Login
